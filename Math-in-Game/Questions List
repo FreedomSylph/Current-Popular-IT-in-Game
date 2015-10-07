@@ -3,16 +3,16 @@ Yuri:
 1. Di game Warcraft 3, Status Hero [Agility] mempunyai efek meningkatkan dodge rate Hero tersebut. (F)
 2. Di game Warcraft 3, Status Hero [Intelligence] berefek meningkatkan magic / skill damage Hero tersebut. (F)
 3. Di Dynasty Warrior 8, game tidak lagi menghitung KO count ketika di UI KO sudah mencapai max (9999 KO). (F)
-4. Dalam game Warframe, semua senjata memiliki bullet travel time yang sama. (F)
+4. Dalam game Warframe, semua senjata memiliki bullet travel speed yang sama. (F)
 5. Dalam game Ragnarok Online, posisi (koordinat) karakter ditentukan oleh 3 vektor (x, y, z). (F)
 6. Dalam game Super Mario Bros., setelah player mendapat jumlah nyawa spesifik (128 life), jika player kemudian mati, maka akan langsung Game Over. (T)
 
 Ricky Lie:
 1. Minecraft : damage taken from creeper explosion is the same even when wearing armor.					(F)
 2. PAC-MAN (google ver.) : ghost(s) travel slightly faster than you.						               	(T)
-3. Uncle Bean in Bishi Bashi Special : the bean came out in a fixed order.							(F)
-4. World of Warship : hitpoint (damage infict) is determined by the bullet type (HE or AP), and the position of the ship it hits.	(F)
-5. Team Buddies : when you carry red box, moving speed will decrease.								(T)
+3. Uncle Bean in Bishi Bashi Special : the beans came out in a fixed order.							(F)
+4. World of Warship : damge inflicted is determined by the bullet type (HE or AP), and the position of the ship it hits.	(F)
+5. Team Buddies : when you carry red box, move speed will decrease.								(T)
 6. Teeworlds : pistol's bullet goes straight              (F)
 Link :https://drive.google.com/folderview?id=0BxuLEWCqe8EuajJLdHZoMkZlLWc&usp=sharing
 
