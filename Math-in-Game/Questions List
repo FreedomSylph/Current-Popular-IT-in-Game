@@ -36,9 +36,9 @@ Brian Rickyantara:
 
 Tony:
 1. Dalam permainan block breaker, pada object bola semakin besar velocitynya maka kecepatan pada pantulan object bola juga semakin besar. (T)
-2. Dalam permainan Pong, move speed pada object musuh = move speed object player. (F)
+2. Dalam permainan Pong, move speed pada object musuh = move speed object player. (T)
 3. Flappy Bird, gravitasi pada object bird selalu konstan. (T)
-4. Dota2, movement value tiap" karakter pada dota berbeda-beda.(T)
+4. Dota2, movement value tiap" karakter pada dota sama.(F)
 5. COC, kalkulasi damage base disesuaikan dengan jumlah hit yang diterima, semakin banyak hit, maka Hp pada base akan semakin berkurang. (T)
 6. Plant vs Zombie, posisi spawn pada object matahari adalah random. (T)
 
