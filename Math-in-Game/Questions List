@@ -27,12 +27,12 @@ link 1-3 http://www.kilobolt.com/day-1-flappy-bird---an-in-depth-analysis.html
 http://gaming.stackexchange.com/questions/114991/how-to-speed-up-your-movement-in-counter-strike
 
 Brian Rickyantara:
-1.
-2.
-3.
-4.
-5.
-6.
+1. Pada game FPS, player running speed lebih besar daripada bullet speed (T/F) F
+2. Pada game RTS, Besar kecilnya ingame resource selalu ditentukan oleh lama atau tidaknya waktu berjalannya permainan (T/F) F
+3. Dalam game RPGs, semakin besar defense atau armor pemain, semakin sedikit berkurangnya health pemain bila terkena serangan (T/F) T
+4. Dalam game RPGs, besar kecilnya critical damage ditentukan oleh besar kecilnya base damage (T/F) F 
+5. Dalam game Pinball, bola akan selalu jatuh ke arah bawah tanpa mengalami percepatan (T/F) F
+6. Dalam game Tetris, balok yang turun akan turun semakin lambat jika waktu semakin bertambah (T/F) F
 
 Tony:
 1. Dalam permainan block breaker, pada object bola semakin besar velocitynya maka kecepatan pada pantulan object bola juga semakin besar. (T)
